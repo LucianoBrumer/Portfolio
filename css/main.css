@@ -3,6 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: system-ui;
+        overflow: hidden;
 }
 
 #header {
@@ -100,7 +101,6 @@
 		font-size: 50px;
 		left: 35px;
 		bottom: 90px;
-                display: none;
 	}
 	
 	.background{
