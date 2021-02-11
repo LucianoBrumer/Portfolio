@@ -125,11 +125,11 @@ hr {
 		min-height: 35px;
 	}
 	#container {
-		min-height: calc(100vh - 100px);
+		min-height: calc(100vh - 150px);
 	}
 	
 	#footer {
-		
+		min-height: 150px;
 	}
 	
 	.menu{
@@ -137,19 +137,27 @@ hr {
 	}
 	
 	.title{
+		visibility: hidden;		
+		position: relative;
 		font-size: 17.5px;
 		left: 10px;
-		top: 3px;
+		top: 5px;
+	}
+	
+	.title:after{
+		visibility: visible;
+		content: "LB";
+		float: left;
 	}
 	
 	.subtitle{
-		font-size: 50px;
-		left: 35px;
-		bottom: 90px;
+		font-size: 40px;
+		left: 40px;
+		bottom: 80px;
 	}
 	
 	.background{
-		
+		height: 55vw;
 	}
 	
 	.contact{
