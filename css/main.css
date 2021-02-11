@@ -126,7 +126,7 @@ hr {
 }
 
 #skills{
-	margin-bottom: 100px;
+	margin-bottom: 125px;
 }
 
 #skills_desc_div{
@@ -234,6 +234,7 @@ hr {
 	
 	#skills{
 		margin-top: 65px;
+		margin-bottom: 100px;
 	}
 
 }
