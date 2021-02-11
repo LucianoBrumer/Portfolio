@@ -193,6 +193,7 @@ hr {
 		left: 30vw;
 		bottom: 19vh;
 		font-weight: 500;
+		display: none;
 	}
 	
 	#background{
@@ -200,7 +201,7 @@ hr {
 	}
 	
 	#contact{
-		
+		font-size: 17.5px;
 	}
 	
 	.section_title{
