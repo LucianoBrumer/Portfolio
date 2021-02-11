@@ -149,7 +149,6 @@ hr {
 }
 
 #contact {
-	
 	text-decoration: none;
 	color: rgb(255, 255, 255);
 }
@@ -177,9 +176,9 @@ hr {
 	#title{
 		visibility: hidden;		
 		position: relative;
-		font-size: 22.5px;
+		font-size: 25px;
 		left: 15px;
-		top: 5.5px;
+		top: 5px;
 	}
 	
 	#title:after{
