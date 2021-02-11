@@ -210,6 +210,7 @@ hr {
 	}
 	
 	#projects{
+		margin-top: 65px;
 		min-width: 100vw;
 		max-width: 100vw;
 	}
@@ -225,6 +226,14 @@ hr {
 	
 	#skills_desc_div{
 		max-width: 50%;
+	}
+	
+	#about_me{
+		margin-top: 65px;
+	}
+	
+	#skills{
+		margin-top: 65px;
 	}
 
 }
