@@ -174,7 +174,7 @@ hr {
 	}
 	
 	#title{
-		visibility: hidden;		
+		visibility: hidden;
 		position: relative;
 		font-size: 25px;
 		left: 15px;
@@ -197,8 +197,7 @@ hr {
 	}
 	
 	#background{
-		height: 55vw;
-	}
+	}	
 	
 	#contact{
 		font-size: 17.5px;
@@ -221,11 +220,15 @@ hr {
 	}
 	
 	#about_me_desc_div{
-		max-width: 50%;
+		max-width: 70%;
+	}
+	
+	#about_me_desc{
+		text-indent: 25px;
 	}
 	
 	#skills_desc_div{
-		max-width: 50%;
+		max-width: 70%;
 	}
 	
 	#about_me{
